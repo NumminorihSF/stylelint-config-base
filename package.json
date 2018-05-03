@@ -1,6 +1,6 @@
 {
   "name": "@saritasa/stylelint-config-base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Saritasa's shareable base config for stylelint",
   "main": "index.js",
   "scripts": {
