@@ -23,7 +23,7 @@
   "peerDependencies": {
     "stylelint": ">= 8.2.0",
     "stylelint-declaration-use-variable": "^1.6.0",
-    "stylelint-no-unsupported-browser-features": "^1.0.1",
+    "stylelint-no-unsupported-browser-features": "^3.0.0",
     "@saritasa/stylelint-config-order": "^0.0.3"
   }
 }
