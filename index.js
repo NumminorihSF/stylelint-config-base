@@ -1,7 +1,7 @@
 module.exports = {
   extends: [
     'stylelint-config-sass-guidelines',
-    'stylelint-config-saritasa-order'
+    '@saritasa/stylelint-config-order'
   ],
   rules: {
     'selector-max-compound-selectors': 5,
