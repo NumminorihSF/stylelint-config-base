@@ -1,5 +1,7 @@
 # @saritasa/stylelint-config-base
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Saritasa/stylelint-config-base.svg)](https://greenkeeper.io/)
+
 Saritasa's shareable base config for [stylelint](https://github.com/stylelint/stylelint).
 
 1. Install peer dependencies and config itself.
